@@ -1,0 +1,5 @@
+Artificial intelligence is the simulation of human intelligence in machines.
+Machine learning is a branch of AI that allows systems to learn from data.
+Python is a programming language widely used in AI and data science.
+NLP is a field that helps computers understand human language.
+Chatbots are programs that simulate human conversation.
