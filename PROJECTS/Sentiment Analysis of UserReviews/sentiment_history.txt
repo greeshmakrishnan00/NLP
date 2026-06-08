@@ -1,0 +1,14 @@
+
+==================================================
+Date: 2026-06-08 11:05:20.903922
+Review: The service was terrible and very disappointing.
+Polarity: -0.89
+Subjectivity: 0.955
+Sentiment: Negative 😞
+
+==================================================
+Date: 2026-06-08 11:06:15.871178
+Review: This product is excellent and very easy to use.
+Polarity: 0.7816666666666667
+Subjectivity: 1.0
+Sentiment: Positive 😊
